@@ -1,0 +1,7 @@
+C:\Users\chaiz\source\repos\MahjongHandTenpaiTester\MahjongHandTenpaiTester\bin\Debug\MahjongHandTenpaiTester.exe.config
+C:\Users\chaiz\source\repos\MahjongHandTenpaiTester\MahjongHandTenpaiTester\bin\Debug\MahjongHandTenpaiTester.exe
+C:\Users\chaiz\source\repos\MahjongHandTenpaiTester\MahjongHandTenpaiTester\bin\Debug\MahjongHandTenpaiTester.pdb
+C:\Users\chaiz\source\repos\MahjongHandTenpaiTester\MahjongHandTenpaiTester\obj\Debug\MahjongHandTenpaiTester.csprojAssemblyReference.cache
+C:\Users\chaiz\source\repos\MahjongHandTenpaiTester\MahjongHandTenpaiTester\obj\Debug\MahjongHandTenpaiTester.csproj.CoreCompileInputs.cache
+C:\Users\chaiz\source\repos\MahjongHandTenpaiTester\MahjongHandTenpaiTester\obj\Debug\MahjongHandTenpaiTester.exe
+C:\Users\chaiz\source\repos\MahjongHandTenpaiTester\MahjongHandTenpaiTester\obj\Debug\MahjongHandTenpaiTester.pdb
